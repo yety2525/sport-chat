@@ -114,11 +114,7 @@ El objetivo de **SPORT CHAT** es desarrollar una aplicación deportiva utilizand
 
 ---
 
-## 📸 Vista del proyecto
 
-> Próximamente se agregarán capturas de pantalla de la aplicación.
-
----
 
 ## 🔮 Próximas mejoras
 
